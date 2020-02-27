@@ -1,0 +1,11 @@
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.exe
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.deps.json
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.runtimeconfig.json
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.runtimeconfig.dev.json
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.dll
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.pdb
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.csprojAssemblyReference.cache
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.AssemblyInfoInputs.cache
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.AssemblyInfo.cs
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.dll
+C:\Users\Pasha\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.pdb
