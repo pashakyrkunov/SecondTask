@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfTransport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transport xsi:type="Truck">
+    <model>Ford</model>
+    <number>1243a</number>
+    <speed>50.6</speed>
+    <capacity>400</capacity>
+    <hasTrailer>true</hasTrailer>
+  </Transport>
+  <Transport xsi:type="Motorcycle">
+    <model>BMX</model>
+    <number>45b31</number>
+    <speed>60</speed>
+    <capacity>0</capacity>
+    <hasCarriage>false</hasCarriage>
+  </Transport>
+  <Transport xsi:type="Truck">
+    <model>Ford</model>
+    <number>423cc4</number>
+    <speed>45.7</speed>
+    <capacity>350</capacity>
+    <hasTrailer>false</hasTrailer>
+  </Transport>
+  <Transport xsi:type="PassengerCar">
+    <model>BMW</model>
+    <number>423d1</number>
+    <speed>55</speed>
+    <capacity>50</capacity>
+  </Transport>
+</ArrayOfTransport>
